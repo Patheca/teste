@@ -1,6 +1,6 @@
 # fazer o mesmo com alguns dos comandos abaixo
 st.title(x)
-st.button('Clique')
+st.button('Clique Aqui')
 st.radio('Selecione seu gênero',['Masculino','Feminino'])
 st.selectbox('Selecione seu gênero',['Masculino','Feminino'])
 st.multiselect('Escolha um departamento',['DCS', 'DE', 'DIR'])
@@ -15,7 +15,7 @@ st.file_uploader('Atualize uma foto')
 st.color_picker('Escolha sua cor favorita')
 
 # mensagens de status
-st.success("Você conseguiu!")
+st.success("Você conseguiu! SHOW")
 st.error("Erro!")
 st.warning("Advertência")
 st.info("Esta é uma informação")
