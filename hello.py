@@ -1,3 +1,4 @@
+import streamlit as st
 st.title(x)
 st.button('Clique Aqui')
 st.radio('Selecione seu gênero',['Masculino','Feminino'])
