@@ -1,4 +1,3 @@
-# fazer o mesmo com alguns dos comandos abaixo
 st.title(x)
 st.button('Clique Aqui')
 st.radio('Selecione seu gênero',['Masculino','Feminino'])
@@ -14,7 +13,7 @@ st.text_area('Descrição')
 st.file_uploader('Atualize uma foto')
 st.color_picker('Escolha sua cor favorita')
 
-# mensagens de status
+
 st.success("Você conseguiu! SHOW")
 st.error("Erro!")
 st.warning("Advertência")
