@@ -13,8 +13,6 @@ st.time_input('Tempo de escola')
 st.text_area('Descrição')
 st.file_uploader('Atualize uma foto')
 st.color_picker('Escolha sua cor favorita')
-
-
 st.success("Você conseguiu! SHOW")
 st.error("Erro!")
 st.warning("Advertência")
